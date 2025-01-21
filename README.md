@@ -1,5 +1,5 @@
 <div align="center">
-     <br/>Analyse-des-Sentiments-dans-les-Avis</h1>
+    <h1> Analyse-des-Sentiments-dans-les-Avis</h1>
      </div>
 <div align="center">
       <h1> <img src="https://digitalpress.fra1.cdn.digitaloceanspaces.com/mhujhsj/2022/09/Logistic.png" width="80px"><br/>Logistic_Regression</h1>
